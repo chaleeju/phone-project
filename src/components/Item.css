@@ -1,0 +1,17 @@
+.list { margin-top:40px; }
+
+.box { 
+    width:660px; float:left; height:60px; 
+    background:rgba(255,255,255,0.2);
+    border-radius:5px; padding:0 20px; box-sizing:border-box;
+    color:#bbb; line-height:60px; font-size:20px;
+}
+
+.list button { 
+    width:60px; margin-left:10px; float:left; 
+    height:60px; line-height:60px; background:rgba(225,225,225,0.2);
+    border-radius:5px; border:0; color:#bbb; font-size:20px;
+    cursor:pointer;
+}
+
+.list button:hover { color:#fff; }

@@ -1,0 +1,9 @@
+.row { width:800px; margin:60px auto; }
+
+.title input {
+    width:100%; 
+    padding:0 10px; box-sizing:border-box;
+    height:60px; font-size:30px; background:none;
+    border:0; border-bottom:1px dotted #eee;
+    color:#bbb; outline:none;
+}
